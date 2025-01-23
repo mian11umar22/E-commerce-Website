@@ -1,6 +1,6 @@
 @include('header')
 
-<body class="bg-gray-100">
+<body class=" light bg-gray-100">
 
     <div class="container mx-auto mt-12 flex justify-center items-center">
         <div class="max-w-2xl w-full bg-white shadow-lg rounded-lg overflow-hidden">
